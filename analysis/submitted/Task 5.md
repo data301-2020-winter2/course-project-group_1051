@@ -43,6 +43,6 @@ Since room type and neighbourhood group are categorical variables, we cannot exp
 From the plots, we can see that there is a negative correlation between reviews per month and price, minimum nights has a dimishing effect on reviews per month. That makes sense since most of the travellers are just looking for a short rent, if the minimum nights requirement is high, people are usually unwilling to look through.
 ## Is the price normally distributed?
 The normal distribution is the most important probability distribution in statistics because it fits many natural phenomena. In this case, we want to know if the price follow a normal distribution? We explore this through the histogram of price.
-![Histogram](Histogram.png)
+![Histogram](HIstogram.png)
 
 We can see that the distribution of price is positively skewed. Although lots of models assume the variables are normally distributed, typically it is not the case.
